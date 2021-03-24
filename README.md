@@ -15,6 +15,6 @@ For further analysis I'm using the 'Thresholded' and 'FrameDiff' videos in order
 
 
 NOTES: 
-1. I saved the large contours in the detection in order to group eventually the clusters
-2. On the videos there are a small delay for easier viewing (up to 1 sec)
-3. We have more than 60000 video frames from the raw video
+1. I saved the large contours for the detection in order to group eventually the clusters
+2. On the videos there is a small delay for easier viewing (up to 1 sec)
+3. We have more than 60000 video frames from the raw video 
