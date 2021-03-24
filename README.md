@@ -1,7 +1,7 @@
 # Videos-from-waggle-like-activity
 
 
-As part of the process for the waggle dance detection we created four new videos in order to apply clustering in the raw, high dense video with pollen, honey and bees. 
+As part of the process for the waggle dance detection we created four new videos in order to apply clustering in the raw, dense background video with pollen, honey and bees. 
 
 First video -> Grayscale video, just conversion from coloured video to grayscaled one.
 
